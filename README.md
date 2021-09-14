@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-I'm a Computer Engineering student based in Brazil.
+I'm a Computer Engineering student based in Brazil and here's a little bit about me:
 - 🔭 I’m currently working as a developer at NÓS app
 - 🌱 I’m currently learning Web and Mobile Development with React and React Native
 - 🤖 In my spare time, I've been studying Data Science and Machine Learning (particularly NLP)
